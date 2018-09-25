@@ -33,7 +33,7 @@
 }
 
 .btn-start{
-  background-color: red;
+  background-color: #3b5a7d;
   height: 150px;
   width: 400px;
   z-index: 2;
@@ -42,6 +42,7 @@
   right: 63%;
   top: 40%;
   border-radius: 10px;
+  color: white;
 }
 
 .form-control{

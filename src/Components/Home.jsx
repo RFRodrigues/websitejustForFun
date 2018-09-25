@@ -54,7 +54,7 @@ handleSubmit(){
         </div>
 
 
-        <ReactPlayer className='react-player' url='https://giant.gfycat.com/SingleSilkyFruitfly.webm' playing loop />
+        {/*<ReactPlayer className='react-player' url='https://giant.gfycat.com/SingleSilkyFruitfly.webm' playing loop />*/}
       </div>
     );
   }
